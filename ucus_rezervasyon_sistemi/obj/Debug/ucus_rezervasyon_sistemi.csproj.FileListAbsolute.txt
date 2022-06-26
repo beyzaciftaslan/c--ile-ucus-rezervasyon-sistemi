@@ -1,0 +1,11 @@
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\bin\Debug\ucus_rezervasyon_sistemi.exe.config
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\bin\Debug\ucus_rezervasyon_sistemi.exe
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\bin\Debug\ucus_rezervasyon_sistemi.pdb
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.Form1.resources
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.Properties.Resources.resources
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.exe
+C:\Users\Beyza\Desktop\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.pdb
